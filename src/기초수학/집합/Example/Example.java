@@ -1,4 +1,4 @@
-package 기초수학.집합;
+package 기초수학.집합.Example;
 
 import java.util.Arrays;
 import java.util.HashSet;

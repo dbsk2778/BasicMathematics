@@ -13,7 +13,7 @@ public class Practice2 {
         r = 3;
         arr = new int[]{1, 2, 3, 4};
         isUsed = new boolean[n];
-        output = new int[3];
+        output = new int[r];
 
         permutation(0);
 

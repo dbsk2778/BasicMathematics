@@ -24,10 +24,4 @@ public class Example {
             - ex. 원 모양의 테이블에 3명을 앉히는 경우
             = n! / n = (n-1)!
      */
-
-    public static void main(String[] args) {
-
-    }
-
-
 }

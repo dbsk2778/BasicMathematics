@@ -7,7 +7,7 @@ public class Factorial {
     public static void main(String[] args) {
         System.out.println("메모이제이션 팩토리얼: " + factorial(5));
         System.out.println("for문 팩토리얼: " + factorial2( 5));
-        System.out.println("stream 팩토리얼: " + factorial2( 5));
+        System.out.println("stream 팩토리얼: " + factorial3( 5));
     }
 
     static int[] arr = new int[10001];
